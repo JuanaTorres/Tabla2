@@ -9,7 +9,7 @@ public class Tabla {
 	}
 	public int calcular( ) {
 		int r=0;
-		r=5*a;
+		r=6*a;
 		return r;
 	}
 	public int getA() {
