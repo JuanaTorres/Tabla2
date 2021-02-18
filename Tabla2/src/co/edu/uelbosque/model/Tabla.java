@@ -18,7 +18,6 @@ public class Tabla {
 	public void setA(int a) {
 		this.a = a;
 	}
-	
-	
+
 
 }
